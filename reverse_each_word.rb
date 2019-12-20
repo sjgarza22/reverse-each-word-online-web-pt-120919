@@ -16,3 +16,5 @@ def reverse_each_word(string)
   puts array
   string
 end
+
+reverse_each_word("To be, or not to be.")
