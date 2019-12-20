@@ -6,3 +6,5 @@ def reverse_each_word(string)
   string = array.join(" ")
   string
 end
+
+reverse_each_word("To be, or not to be.")
