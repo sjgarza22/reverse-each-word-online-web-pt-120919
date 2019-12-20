@@ -8,4 +8,4 @@ def reverse_each_word(string)
   string
 end
 
-reverse_each_word("To be, or not to be.")
+def reverse_each_word_with_collect
